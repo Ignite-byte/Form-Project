@@ -1,0 +1,214 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+body
+{
+    padding: 50px 50px 100px 50px;
+}
+
+.phone
+{
+    font-weight: bold;
+    text-align: right;
+}
+
+.college
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.pfp
+{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 1143px;
+    bottom: 20px;
+}
+
+.text
+{
+    font-size: 15px;
+    padding: 25px 3px 0px 6px;
+}
+
+.form, .class
+{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.reg
+{
+    border: none;
+    width: 500px;
+    position: relative;
+    left: 400px;
+    bottom: 90px;
+
+}
+
+.id
+{
+    border: none;
+    width: 600px;
+    position: relative;
+    left: 400px;
+    bottom: 80px;
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.sno, .session
+{
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.littleNote, .littleNote2
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.note{
+    border: none;
+    width: 600px;
+    position: relative;
+    left: 350px;
+    bottom: 70px;
+}
+
+.PartA
+{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.urduNote, .urduNote2
+{
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.blank {
+  border: none;                
+  border-bottom: 2px solid black; 
+  outline: none;               
+  width: 200px;                
+  font-size: 16px;             
+  margin-left: 10px;
+}
+
+td input.blankTable {
+    border: none;  
+    outline: none;
+}
+
+.info
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.dob, .pob
+{
+    margin-left: 20px;
+}
+
+.religion
+{
+    margin-left: 10px;
+}
+
+.contact
+{
+    display: flex;
+    align-items: start;
+    justify-content: left;
+}
+
+.PartB
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+.signature
+{
+    display: flex;
+    align-items: start;
+    justify-content: left;
+}
+
+.aq
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.others
+{
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    margin-left: 180px;
+
+}
+
+.signature
+{
+    margin-left: 50px;
+}
+
+.college2
+{
+    font-size:20px;
+    text-align: center;
+    font-weight: bold;
+}
+.regis, .dept, .knowledge
+{
+    text-align:center;
+    font-weight:bold;
+}
+
+.NM
+{
+    display:flex;
+    align-items: start;
+    justify-content: left;
+}
+
+.last{
+    font-weight: bold;
+}
+
+.footer
+{
+    display:flex;
+    align-items: start;
+    justify-content: left;
+}
